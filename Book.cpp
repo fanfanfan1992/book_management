@@ -4,6 +4,7 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
+
 //¹¹Ôìº¯Êý
 CBook::CBook(char* cName,char* cIsbn,char* cPrice,char* cAuthor)
 {
